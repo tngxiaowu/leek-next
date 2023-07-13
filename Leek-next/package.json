@@ -1,0 +1,17 @@
+{
+  "name": "Leek-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "z.x.h",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "vite": "^4.3.9"
+  },
+  "bin": {
+    "leek": "./bin/leek.ts"
+  }
+}
